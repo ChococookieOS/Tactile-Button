@@ -74,9 +74,17 @@ Anforderungen an den Taster:
 Durch das herunterdrücken des Tasters wird ein Kupferdraht auf zwei Kupferbleche gedrückt wodurch ein elektrischer Kontakt entsteht.
 **Der Button ist selbstsperrend und besitzt keinen eingebauten Widerstand**
 # CAD Dateien
-Die vollständigen CAD Dateien für Fusion 360 sowie die fertigen *.stl Dateien können im korrespondierenen Verzeichnis [CAD](https://github.com/ChococookieOS/Tactile-Button/master/stl) heruntergeladen werden.
+Die vollständigen und fertigen *.stl Dateien können im korrespondierenen Verzeichnis [stl](https://github.com/ChococookieOS/Tactile-Button/master/stl) heruntergeladen werden.
 # Beispiel Schaltplan
 ![Verwendung des Buttons als Input](https://raw.githubusercontent.com/ChococookieOS/Tactile-Button/master/images/example.png)
+# Komponenten
+ - PLA Filament (ca. 40g)
+ - Kupferblech (ca. 2cm² x 0.5mm)
+ - Kupferdrah (min 4cm)
+ - Kabellitze (min 7cm)
+ - [Druckfeder](https://www.federnshop.com/de/produkte/druckfedern/d-042f-10.html)(7mm x 20.5mm)
+
+
 # Produktionskosten
 ### Kostenaufstellung beim Einzelkauf
 
