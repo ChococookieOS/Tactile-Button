@@ -66,7 +66,8 @@ Anforderungen an den Taster:
  - Schutz vor Elektrizität durch Schutzhaube
  - Universellerer Formfaktor
  - Kleinerer Druckpunkt verhindert verkanten
- 
+
+### Promo video:
  [![Promotional video](https://img.youtube.com/vi/Kt1wF7Cg-Yw/0.jpg)](https://www.youtube.com/watch?v=Kt1wF7Cg-Yw)
 
 # Funktionalität
