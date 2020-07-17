@@ -74,7 +74,7 @@ Anforderungen an den Taster:
 Durch das herunterdrücken des Tasters wird ein Kupferdraht auf zwei Kupferbleche gedrückt wodurch ein elektrischer Kontakt entsteht.
 **Der Button ist selbstsperrend und besitzt keinen eingebauten Widerstand**
 # CAD Dateien
-Die vollständigen CAD Dateien für Fusion 360 sowie die fertigen *.stl Dateien können im korrespondierenen Verzeichnis [CAD](https://github.com/ChococookieOS/Tactile-Button/master/cad) heruntergeladen werden.
+Die vollständigen CAD Dateien für Fusion 360 sowie die fertigen *.stl Dateien können im korrespondierenen Verzeichnis [CAD](https://github.com/ChococookieOS/Tactile-Button/master/stl) heruntergeladen werden.
 # Beispiel Schaltplan
 ![Verwendung des Buttons als Input](https://raw.githubusercontent.com/ChococookieOS/Tactile-Button/master/images/example.png)
 # Produktionskosten
