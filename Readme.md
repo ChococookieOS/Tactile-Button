@@ -11,14 +11,14 @@ Anforderungen an den Taster:
 
 
 ## Erste Generation
-![](https://raw.githubusercontent.com/ChococookieOS/Tactile-Button/master/images/Gen1.png?token=AD7LIYITBCELNT4PVWFMA5C5GCCNO)
+![](https://raw.githubusercontent.com/ChococookieOS/Tactile-Button/master/images/Gen1.png)
 #### Probleme:
 - Federdicke verhindert Kontakt
 - Volumen in relation zu Funktionalität viel zu groß
 - Unangenehm zu drücken
 - Bodenkontakte sehr ungleichmäßig
 ## Zweite Generation
-![](https://raw.githubusercontent.com/ChococookieOS/Tactile-Button/master/images/Gen2.png?token=AD7LIYN5HLKZIWPDCQZUZ525GCCQA)
+![](https://raw.githubusercontent.com/ChococookieOS/Tactile-Button/master/images/Gen2.png)
 #### Verbesserungen:
 - Bodenkontakte sind Kupferplatten und bieten eine größere Berührungsfläche
 - Tasterkopf mit Fase verbessert Druckgefühl
@@ -29,7 +29,7 @@ Anforderungen an den Taster:
 - Hohe Toleranzen führen zu diversen Verkantungsmöglichkeiten
 
 ## Dritte Generation
-![](https://raw.githubusercontent.com/ChococookieOS/Tactile-Button/master/images/Gen3.png?token=AD7LIYJ5CJV7PBIUBLHBFIC5GCCRM)
+![](https://raw.githubusercontent.com/ChococookieOS/Tactile-Button/master/images/Gen3.png)
 #### Verbesserungen:
 - Volumen auf ein Viertel reduziert
 - Kontaktführung auf einen Kupferdraht reduziert um Fertigung und Funktionalität zu vereinfachen
@@ -38,7 +38,7 @@ Anforderungen an den Taster:
 - Podest der Kupferbleche ist zu hoch und damit ist der Druckweg < 1mm
 
 ## Vierte  Generation
-![](https://raw.githubusercontent.com/ChococookieOS/Tactile-Button/master/images/Gen4.png?token=AD7LIYMYWA5BLTHO6OGHV6S5GCDAC)
+![](https://raw.githubusercontent.com/ChococookieOS/Tactile-Button/master/images/Gen4.png)
 #### Verbesserungen:
 - Herabgesengtes Podest
 - Druckfläche geschlossen und ohne störende Kanten
@@ -47,7 +47,7 @@ Anforderungen an den Taster:
 - Druckweg wurde verschoben ist aber immer noch zu kurz
 
 ## Fünfte Generation
-![](https://raw.githubusercontent.com/ChococookieOS/Tactile-Button/master/images/Gen5.png?token=AD7LIYM55D4OHR4EOSM25D25GCDBC)
+![](https://raw.githubusercontent.com/ChococookieOS/Tactile-Button/master/images/Gen5.png)
 #### Verbesserungen:
 
  - Schmalere Vertiefungen
@@ -60,7 +60,7 @@ Anforderungen an den Taster:
  - Absichtliches Verkanten möglich
 
 ## Sechste Finale Generation 
-![](https://raw.githubusercontent.com/ChococookieOS/Tactile-Button/master/images/Gen6.png?token=AD7LIYNTENDFO6VVSZGEFU25GCDEO)
+![](https://raw.githubusercontent.com/ChococookieOS/Tactile-Button/master/images/Gen6.png)
 #### Verbesserungen:
 
  - Schutz vor Elektrizität durch Schutzhaube
@@ -71,9 +71,9 @@ Anforderungen an den Taster:
 Durch das herunterdrücken des Tasters wird ein Kupferdraht auf zwei Kupferbleche gedrückt wodurch ein elektrischer Kontakt entsteht.
 **Der Button ist selbstsperrend und besitzt keinen eingebauten Widerstand**
 # CAD Dateien
-Die vollständigen CAD Dateien für Fusion 360 sowie die fertigen *.stl Dateien können im korrespondierenen [GitHub Verzeichnis](https://github.com/Faso123) heruntergeladen werden.
+Die vollständigen CAD Dateien für Fusion 360 sowie die fertigen *.stl Dateien können im korrespondierenen Verzeichnis [CAD](https://github.com/ChococookieOS/Tactile-Button/master/cad) heruntergeladen werden.
 # Beispiel Schaltplan
-![Verwendung des Buttons als Input](https://raw.githubusercontent.com/ChococookieOS/Tactile-Button/master/images/example.png?token=AD7LIYIK573GISKSMXU6GZ25GCF7O)
+![Verwendung des Buttons als Input](https://raw.githubusercontent.com/ChococookieOS/Tactile-Button/master/images/example.png)
 # Produktionskosten
 ### Kostenaufstellung beim Einzelkauf
 
